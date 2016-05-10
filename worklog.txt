@@ -1,0 +1,7 @@
+Edge cases to pay attention to:
+
+* keys are not enough to differentiate lines
+* file is empty
+* file has one line
+* file does not end in newline
+* yuuge input file with only 10 lines none of which fits into memory
